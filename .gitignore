@@ -1,0 +1,4 @@
+.env
+__pycache__/
+chroma_fixed_store/
+*.pyc
